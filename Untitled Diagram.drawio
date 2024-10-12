@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2868" dy="3830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1687" dy="3216" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -33,7 +33,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uwqtbSZyK-Xc3kBq9y_a-12" value="&lt;span style=&quot;font-family: Aptos; white-space-collapse: preserve;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;VEP_annotated_&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: Aptos; white-space-collapse: preserve; background-color: initial;&quot;&gt;biallelic.vcf&lt;/span&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fillColor=#0050ef;strokeColor=#001DBC;fillStyle=solid;fontColor=#ffffff;fontSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="660.75" y="-150" width="120" height="80" as="geometry" />
+          <mxGeometry x="660" y="-150" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uwqtbSZyK-Xc3kBq9y_a-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uwqtbSZyK-Xc3kBq9y_a-15" target="uwqtbSZyK-Xc3kBq9y_a-88">
           <mxGeometry relative="1" as="geometry" />
@@ -305,16 +305,11 @@
         <mxCell id="uwqtbSZyK-Xc3kBq9y_a-186" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uwqtbSZyK-Xc3kBq9y_a-160" target="uwqtbSZyK-Xc3kBq9y_a-184">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uwqtbSZyK-Xc3kBq9y_a-187" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.855;exitY=0.855;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uwqtbSZyK-Xc3kBq9y_a-16" target="uwqtbSZyK-Xc3kBq9y_a-86">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1090" y="-82" />
-              <mxPoint x="1090" y="840" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="uwqtbSZyK-Xc3kBq9y_a-188" value="Autscore.csv" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fillColor=#0050ef;strokeColor=#001DBC;fillStyle=solid;fontColor=#ffffff;fontSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="827" y="1050" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uwqtbSZyK-Xc3kBq9y_a-190" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uwqtbSZyK-Xc3kBq9y_a-79" target="uwqtbSZyK-Xc3kBq9y_a-86">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
