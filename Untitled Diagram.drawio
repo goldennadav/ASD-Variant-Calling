@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1912" dy="3333" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1793" dy="3271" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -360,10 +360,10 @@
         <mxCell id="0fbIeKIoWHjdxxCGz0Jz-20" value="&lt;div&gt;LOFtool&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="734.8800000000001" y="-1422.5" width="50" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="0fbIeKIoWHjdxxCGz0Jz-27" value="Probands variants" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="0fbIeKIoWHjdxxCGz0Jz-27" value="Probands variants&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="990" y="-1780" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0fbIeKIoWHjdxxCGz0Jz-28" value="GQ&amp;gt;0" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="0fbIeKIoWHjdxxCGz0Jz-28" value="GQ&amp;gt;0&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="990.0000000000001" y="-2000" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0fbIeKIoWHjdxxCGz0Jz-30" value="&lt;font&gt;step #&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e51400;fontColor=#A5C3CC;strokeColor=#A5C3CC;fontStyle=1;labelBorderColor=none;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -375,32 +375,29 @@
         <mxCell id="0fbIeKIoWHjdxxCGz0Jz-33" value="&lt;div&gt;ACMG&lt;/div&gt;LP/P class&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="585.5" y="-576" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0fbIeKIoWHjdxxCGz0Jz-34" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;VEP&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1346" y="-290" width="50" height="53" as="geometry" />
+        <mxCell id="0fbIeKIoWHjdxxCGz0Jz-34" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;LOF&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="820" y="-390" width="50" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="0fbIeKIoWHjdxxCGz0Jz-35" value="&lt;div&gt;dbNSFP&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1236" y="-290" width="50" height="53" as="geometry" />
+        <mxCell id="0fbIeKIoWHjdxxCGz0Jz-35" value="&lt;div&gt;SFARI&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="960" y="-390" width="50" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="0fbIeKIoWHjdxxCGz0Jz-36" value="&lt;div&gt;LOFtool&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1290.88" y="-290" width="50" height="53" as="geometry" />
+        <mxCell id="0fbIeKIoWHjdxxCGz0Jz-36" value="&lt;div&gt;DOMINO&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="892.1300000000001" y="-390" width="50" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="0fbIeKIoWHjdxxCGz0Jz-37" value="Missing parental information&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1460" y="-1030" width="64" height="70" as="geometry" />
+        <mxCell id="0fbIeKIoWHjdxxCGz0Jz-37" value="Full parental information&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1460" y="-1030" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0fbIeKIoWHjdxxCGz0Jz-38" value="Consequence&lt;div&gt;filter&amp;nbsp;&lt;/div&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1258.25" y="-1159" width="84" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0fbIeKIoWHjdxxCGz0Jz-39" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="411" y="-576" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="0fbIeKIoWHjdxxCGz0Jz-41" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="0fbIeKIoWHjdxxCGz0Jz-41" value="&lt;div&gt;DRAGEN&lt;/div&gt;&lt;div&gt;filter&lt;/div&gt;&lt;div&gt;&quot;&lt;span style=&quot;background-color: initial;&quot;&gt;PASS&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="498.25" y="-576" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0fbIeKIoWHjdxxCGz0Jz-43" value="&lt;div&gt;Identical parental genotype&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1531.25" y="-1030" width="64" height="70" as="geometry" />
+        <mxCell id="0fbIeKIoWHjdxxCGz0Jz-43" value="&lt;div&gt;&lt;font color=&quot;#e6e6e6&quot;&gt;Exclude&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#e6e6e6&quot;&gt;Identical genotype&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#e6e6e6&quot;&gt;(proband=parent)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#e6e6e6&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1700" y="-1030" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="0fbIeKIoWHjdxxCGz0Jz-44" value="&lt;div&gt;Sequence artifacts&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1604" y="-1030" width="64" height="70" as="geometry" />
+        <mxCell id="0fbIeKIoWHjdxxCGz0Jz-44" value="&lt;div&gt;&lt;font color=&quot;#e6e6e6&quot;&gt;Exclude Sequence artifacts.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#e6e6e6&quot;&gt;(female chrY variants etc..)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1580" y="-1030" width="104" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0fbIeKIoWHjdxxCGz0Jz-45" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1231" y="-390" width="60" height="60" as="geometry" />
@@ -413,6 +410,9 @@
         </mxCell>
         <mxCell id="0fbIeKIoWHjdxxCGz0Jz-48" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1406" y="-390" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0fbIeKIoWHjdxxCGz0Jz-49" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Disgenet&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="750" y="-390" width="50" height="53" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
